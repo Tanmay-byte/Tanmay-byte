@@ -1,9 +1,8 @@
 ### Hi there, I'm Tanmay - aka [GAMERTHEPRO][website] 👋
 
 [![Youtube](https://img.shields.io/website?label=GAMERTHEPRO.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.youtube.com/channel/UCQaXTCtsg1iTF0DJgrxRfDw?sub_confirmation=1)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?&screen_name=GAMERTHEPROROCK)
-[![Linkedin Follow]<script src="https://platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
-<script type="IN/FollowCompany" data-id="ba0521149" data-counter="bottom"></script>]
+[![Twitter Follow](https://img.shields.io/twitter/follow/GAMERTHEPROROCK?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?&screen_name=GAMERTHEPROROCK)
+
 
 
 ## I'm a Husband, Father, Developer, and Teacher!!
