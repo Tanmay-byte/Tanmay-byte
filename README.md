@@ -2,6 +2,8 @@
 
 [![Youtube Subscribe](https://img.shields.io/youtube/channel/subscribers/UCQaXTCtsg1iTF0DJgrxRfDw?color=red&label=GAMER%20THE%20PRO&style=for-the-badge)](https://www.youtube.com/channel/UCQaXTCtsg1iTF0DJgrxRfDw?sub_confirmation=1)
 [![Linkedin Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/tanmay-nayak-ba0521149)
+<br />
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-byte&theme=blue-green)
 
 ## I'm a Student,Developer, and Youtube Gamer!!
