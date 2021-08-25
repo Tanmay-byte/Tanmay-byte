@@ -1,6 +1,6 @@
 ### Hi there, I'm Tanmay - aka [GAMERTHEPRO][website] 👋
 
-[![Youtube](https://img.shields.io/website?label=GAMERTHEPRO.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.youtube.com/channel/UCQaXTCtsg1iTF0DJgrxRfDw?sub_confirmation=1)
+[![Youtube](https://img.shields.io/www.youtube.com/channel/UCQaXTCtsg1iTF0DJgrxRfDw?label=GAMERTHEPRO.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.youtube.com/channel/UCQaXTCtsg1iTF0DJgrxRfDw?sub_confirmation=1)
 [![Twitter Follow](https://img.shields.io/twitter/follow/GAMERTHEPROROCK?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?&screen_name=GAMERTHEPROROCK)
 
 
