@@ -1,10 +1,8 @@
-### Hi there, I'm Tanmay - aka [GAMERTHEPRO][website] 👋
+### Hi there, I'm Tanmay - aka [GAMERTHEPRO]👋
 
 [![Youtube Subscribe](https://img.shields.io/youtube/channel/subscribers/UCQaXTCtsg1iTF0DJgrxRfDw?color=red&label=GAMER%20THE%20PRO&style=for-the-badge)](https://www.youtube.com/channel/UCQaXTCtsg1iTF0DJgrxRfDw?sub_confirmation=1)
 [![Linkedin Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/tanmay-nayak-ba0521149)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mail2tanmaynayak@gmail.com)
-
-
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
 
 ## I'm a Student,Developer, and Youtube Gamer!!
 
