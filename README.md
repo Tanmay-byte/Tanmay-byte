@@ -2,7 +2,7 @@
 
 [![Youtube Subscirbe](https://img.shields.io/youtube/channel/subscribers/UCQaXTCtsg1iTF0DJgrxRfDw?color=red&label=GAMER%20THE%20PRO&style=for-the-badge)](https://www.youtube.com/channel/UCQaXTCtsg1iTF0DJgrxRfDw?sub_confirmation=1)
 [![Twitter Follow](https://img.shields.io/twitter/follow/GAMERTHEPROROCK?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?&screen_name=GAMERTHEPROROCK)
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script><div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="tanmay-nayak-ba0521149" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/tanmay-nayak-ba0521149?trk=profile-badge">Tanmay Nayak</a></div>
+[Tanmay Nayak](https://in.linkedin.com/in/tanmay-nayak-ba0521149?trk=profile-badge)
               
 
 
