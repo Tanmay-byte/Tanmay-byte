@@ -22,7 +22,7 @@
 
 <br />
 
-[twitter]: https://twitter.com/intent/follow?&screen_name=GAMERTHEPROROCK
+[twitter]: https://twitter.com/intent/follow?&screen_name=GAMERTHEPROROCK?color=white
 [youtube]: https://www.youtube.com/channel/UCQaXTCtsg1iTF0DJgrxRfDw?sub_confirmation=1
 [instagram]: https://www.instagram.com/tanmaynayak07/?hl=en
 [linkedin]: https://www.linkedin.com/in/tanmay-nayak-ba0521149
