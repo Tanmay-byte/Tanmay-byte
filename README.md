@@ -1,7 +1,6 @@
 ### Hi there, I'm Tanmay - aka [GAMERTHEPRO][website] 👋
 
 [![Youtube Subscribe](https://img.shields.io/youtube/channel/subscribers/UCQaXTCtsg1iTF0DJgrxRfDw?color=red&label=GAMER%20THE%20PRO&style=for-the-badge)](https://www.youtube.com/channel/UCQaXTCtsg1iTF0DJgrxRfDw?sub_confirmation=1)
-[![Twitter Follow](https://img.shields.io/twitter/follow/GAMERTHEPROROCK?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?&screen_name=GAMERTHEPROROCK)
 [![Linkedin Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/tanmay-nayak-ba0521149)
 
 
